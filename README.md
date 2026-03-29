@@ -1,7 +1,5 @@
 # Market Basket Analysis using Apriori and FP-Growth
 
-**Name:** Sakthidhar Koneru  
-**Course:** [Course Title]  
 **Lab Assignment:** Market Basket Analysis using Apriori and FP-Growth
 
 ## Project Overview
